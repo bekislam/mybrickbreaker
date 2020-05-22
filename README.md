@@ -5,7 +5,7 @@ Objective of the game is to destroy the wall of bricks by deflecting the ball wi
 
 Aim of this project are improve player's focusing skills and improve the users’ instinctual movements 
 
-I chose the game brick breaker because it is already a fun game that I know 
+I chose the game brick breaker because it is already a fun game that I know.
 And player be good emotion of playing this game   
 
 
